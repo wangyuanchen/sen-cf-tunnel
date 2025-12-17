@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipJP.txt@207.65.189.9:443
-https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipHK.txt@101.32.41.166:20000
-https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipUS.txt@47.254.38.8:20000
-https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipTW.txt@220.135.92.105:2087
-https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipNL.txt@77.238.252.237:2053
+https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipHK.txt@149.104.30.244:443
+https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipUS.txt@45.158.127.48:443
+https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipTW.txt@114.33.57.170:443
+https://raw.githubusercontent.com/wangyuanchen/sen-cf-tunnel/main/ipNL.txt@212.34.131.18:443
